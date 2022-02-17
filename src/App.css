@@ -6,16 +6,23 @@ body{
   font-family:sans-serif;
 }
 
-/* .title{
-  justify-content: center !important;
-} */
+.title{
+  text-align: center !important;
+  margin-top: 1em;
+  font-size: 25spx;
+  text-transform: uppercase;
+  text-shadow: #DF0025;
+}
 
 .container{
   font-size: 18px;
   margin-left: 12em;
   border-radius: 5px;
   background-color: #f2f2f2;
-  padding: 30px 50px;
+  /* padding: 30px 50px; */
+  padding-left: 150px;
+  padding-top: 30px;
+  padding-bottom: 30px;
   color: rgba(0, 0, 0, 0.747);
   margin-right: 10em;
 
@@ -90,7 +97,7 @@ body{
 }
 
 .submit-button{
-  width: 43%;
+  width: 69%;
   background-color: #DF0025;
   color: white;
   font-weight: bold;
