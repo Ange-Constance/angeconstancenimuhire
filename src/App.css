@@ -30,8 +30,8 @@ body{
 
 
 .inputs{
-  width: 400px;
-  height: 40px;
+  width: 450px;
+  height: 50px;
   margin-top: 2em;
   margin-left: 4.5em;
   display: inline-block;
@@ -44,8 +44,8 @@ body{
 
 
 .inputs2{
-  width: 400px;
-  height: 40px;
+  width: 450px;
+  height: 50px;
   margin-top: 2em;
   margin-left: 8em;
   display: inline-block;
@@ -58,8 +58,8 @@ body{
 
 
 .inputs3{
-  width: 400px;
-  height: 40px;
+  width: 450px;
+  height: 50px;
   margin-top: 2em;
   margin-left: 5.5em;
   display: inline-block;
@@ -71,8 +71,8 @@ body{
 }
 
 .inputs4{
-  width: 400px;
-  height: 40px;
+  width: 450px;
+  height: 50px;
   margin-top: 2em;
   margin-left: 2.7em;
   display: inline-block;
@@ -84,8 +84,8 @@ body{
 }
 
 .inputs5{
-  width: 400px;
-  height: 40px;
+  width: 450px;
+  height: 50px;
   margin-top: 2em;
   margin-left: 6.7em;
   display: inline-block;
@@ -97,7 +97,7 @@ body{
 }
 
 .submit-button{
-  width: 69%;
+  width: 75%;
   background-color: #DF0025;
   color: white;
   font-weight: bold;
